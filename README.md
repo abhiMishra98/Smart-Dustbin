@@ -1,2 +1,2 @@
 # Smart-Dustbin
-Arduino Code
+Smart Dustbin Arduino code
